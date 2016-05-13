@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{229A7D3E-9CE1-556D-EF89-8521994C48C2}") = "Edu-Cade V2", "Assembly-CSharp.csproj", "{B2C6AC2C-040B-1FED-DF60-447CA94DE36D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2C6AC2C-040B-1FED-DF60-447CA94DE36D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2C6AC2C-040B-1FED-DF60-447CA94DE36D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2C6AC2C-040B-1FED-DF60-447CA94DE36D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2C6AC2C-040B-1FED-DF60-447CA94DE36D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	
+EndGlobal

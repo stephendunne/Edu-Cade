@@ -1,0 +1,16 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{83431B18-3B38-9D0E-F880-5D9E09605769}") = "Edu-Cade", "Assembly-CSharp-Editor-firstpass.csproj", "{A759F65C-EB83-C8AF-C5A9-A5743A1A7B51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A759F65C-EB83-C8AF-C5A9-A5743A1A7B51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A759F65C-EB83-C8AF-C5A9-A5743A1A7B51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A759F65C-EB83-C8AF-C5A9-A5743A1A7B51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A759F65C-EB83-C8AF-C5A9-A5743A1A7B51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
